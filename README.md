@@ -17,3 +17,7 @@ If you follow steps in notebooks you will found:
   1. Create a test script and control the weights
 
 After part 3 everything about basic neural network should be clear. 
+
+Diagram of neural network I created in this repostory is like this :
+
+![Başlıksız Diyagram](https://user-images.githubusercontent.com/44752389/160843032-ade8e422-d7ac-4d77-bf52-e015fc9285ce.jpg)
